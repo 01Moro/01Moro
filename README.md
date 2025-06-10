@@ -5,10 +5,10 @@ Estou compartilhando o que estou aprendendo, atualmente estou estudando Ethical 
 Me acompanha aí
 
 <a href="https://github.com/01Moro">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=01Moro&theme=dark" />
+  <img height=140 align="center" src="https://github-readme-stats.vercel.app/api?username=01Moro&theme=dark" />
 </a>
 <a href="https://github.com/01Moro">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=01Moro&layout=compact&langs_count=8&card_width=320&theme=dark" />
+  <img height=140 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=01Moro&layout=compact&langs_count=8&card_width=320&theme=dark" />
 </a>
 
 ##
