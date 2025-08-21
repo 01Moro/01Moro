@@ -1,6 +1,6 @@
 ## Eu sou o João Vítor Moro e...
 
-Estou compartilhando o que estou aprendendo, atualmente estou estudando Ethical Hacking
+Estou compartilhando o que estou aprendendo, atualmente estou estudando Ethical Hacking e Segurança da Informação
 
 Me acompanha aí
 
